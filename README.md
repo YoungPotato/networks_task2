@@ -1,5 +1,7 @@
 # networks_task2
-HTTP-server
+HTTP proxy server
+
+Он предназначен для того, чтобы запретить доступ к нежелательным сайтам.
 
 Примеры запуска: python3 main.py -p=some_port[Например: 9797]
  
